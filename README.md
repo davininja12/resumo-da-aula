@@ -45,7 +45,8 @@ Custo sob demanda: paga só o que usa.
 
 Segurança: criptografia, compliance e controles de acesso.
 
-2️⃣ Introdução ao Azure
+
+Introdução ao Azure
 
 O Microsoft Azure é a plataforma de nuvem da Microsoft, que oferece mais de 200 serviços.
 
